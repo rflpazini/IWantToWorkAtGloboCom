@@ -7,6 +7,14 @@ Plataforma de Comentários, Produtos Globo.com, Área de Semântica
 CV
 ==
 
+## INFORMAÇÕES PESSOAIS ##
+
+ * Rafael Pazini
+ * Nascimento: 11 de Maio de 1994, 20 anos
+ * Estado Civil: Solteiro
+ * Cidade: Santa Rita do Passa Quatro (13670-000) - SP
+ * Link externo: [LinkedIn](br.linkedin.com/in/rafaelpazini)
+
 ## FORMAÇÃO ##
 
 * **ENSINO SUPERIOR:** UNIP – Universidade Paulista – Cursando 3º semestre de Ciência da Computação – Prazo previsto de término dezembro de 2016.
