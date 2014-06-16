@@ -1,19 +1,42 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Plataforma de Comentários, Produtos Globo.com, Área de Semântica 
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+## FORMAÇÃO ##
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+* **ENSINO SUPERIOR:** UNIP – Universidade Paulista – Cursando 3º semestre de Ciência da Computação – Prazo previsto de término dezembro de 2016.
+* **ENSINO MÉDIO:** ETEC “Manoel dos Reis Araújo” de Santa Rita do Passa Quatro/SP – Concluído do em dezembro de 2011.
+* **ENSINO FUNDAMENTAL:** Centro Educacional SESI de Santa Rita do Passa Quatro/SP – Concluído do em dezembro de 2008.
+
+## CURSOS EXTRACURRICULARES ##
+
+### LÍNGUAS ESTRANGEIRAS: ###
+* **INGLÊS:** Nível Avançado – Escola Fisk de Santa Rita do Passa Quatro/SP – Concluído em outubro de 2010.
+
+### INFORMÁTICA: ###
+
+* **CURSO TÉCNICO EM PROGRAMAÇÃO** - ETEC “Manoel dos Reis Araújo” de Santa Rita do Passa Quatro/SP – concluído em julho de 2011.
+* **COMPUTAÇÃO GRÁFICA** - Etreinamento Escola de Computação Gráfica de Santa Rita do Passa Quatro – Concluído em junho de 2011.
+* **CURSOS DE AUTOCAD / AUTOCAD MECÂNICO** – Visual Mídia Formação profissional de Santa Rita do Passa Quatro – Concluído do em setembro de 2012.
+* **CURSO MICROSOFT MVA** - Introdução ao desenvolvimento para Windows 8 – Concluído do em novembro de 2012.
+
+## ATIVIDADES DE PESQUISA E MONITORIA ##
+
+* Bolsista de Iniciação Cientifica SANTANDER pela Universidade Paulista – UNIP no Instituto de Ciências Exatas e Tecnologia (ICET), de 01/Junho/2014 com data prevista para termino Julho/2015 no projeto “Crisfa – Criatividade sem fronteiras”, orientado pelo professor Rodrigo de Oliveira Plotze.
+
+## EXPERIÊNCIAS PROFISSIONAIS ##
+
+* **ESCOLA ETREINAMENTO DE COMPUTAÇÃO GRÁFICA**: agosto/2010 à julho de 2011.
+	* Estagiário – montagem e manutenção de Microcomputadores, programação em ActionScript 3, configuração de rede de computadores, auxílio no uso de equipamentos e softwares, ministrar aulas de Photoshop, Flash Professional e AutoDesk Maya.
+* **VISUAL MÍDIA FORMAÇÃO PROFISSIONAL**: agosto/2011 à maio/2013.
+	* Instrutor de Informática (cursos básicos e avançados, como AutoCad, 3Ds Max, Word, Excel, Windows), manutenção de microcomputadores e redes.
+
+* **VISUAL MÍDIA SISTEMAS INTERATIVOS**: maio/2013 até a presente data.
+	* Assistente de Pesquisa e Desenvolvimento: Auxilio na pesquisa, desenvolvimento e aplicação de novos cursos na área de informática.
+	* Desenvolvedor:
+Criar aplicações utilizando as seguintes linguagens: ActionScript 3, Java, plataforma .Net; Desenvolvimento de Web (front-end): HTML5, CSS3, JavaScript; Participação no desenvolvimento de projetos internos, como o portal para download de conteúdo [Estudar Online](http://www.estudaronline.com.br) e o portal de desenvolvimento de cursos [Construtor de Cursos – Readiness](http://construtordecursos.com.br).
